@@ -12,9 +12,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsh3dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh3dev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harsh3dev&theme=blue-green&hide_border=false)
+[![harsh3dev's GitHub | Stats](https://stats.quira.sh/harsh3dev/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=harsh3dev)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
