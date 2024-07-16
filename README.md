@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,nodejs,react,redux,tailwind,ts,vscode,c,cpp,figma,git,ps)](https://skillicons.dev)
 
 # 🌐 Connect with me: 
-<p align="left"><a href="https://linkedin.com/in/harsh3dev"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://x.com/harsh3dev"><img src="https://skillicons.dev/icons?i=twitter" /></a> </p>
+<p align="left"><a href="https://linkedin.com/in/harsh3dev"><strong>LinkedIn</strong></a> | <a href="https://x.com/harsh3dev"><strong>X</strong></a> </p>
 
 
 # 📊 GitHub Stats:
