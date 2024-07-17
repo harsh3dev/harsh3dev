@@ -1,4 +1,4 @@
-### 👋 I am &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=03F7C3&multiline=true&random=false&width=435&height=44&lines=HARSH+PANDEY)](https://git.io/typing-svg)
+
 - 🌱 Pursuing B.tech in CSE IoT from Institute of Engineering and Management Kolkata
 - 🔭 Web Development and Blockchain
 - ⚡ Connect with me: <a target="_blank" href="mailto:harshpandey.tech@gmail.com"><strong>Email</strong></a> | <a target="_blank" href="https://linkedin.com/in/harsh3dev"><strong>LinkedIn</strong></a> | <a target="_blank" href="https://x.com/harsh3dev"><strong>X</strong></a>
