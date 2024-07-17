@@ -1,10 +1,12 @@
 
-- 🌱 Pursuing B.tech in CSE IoT from Institute of Engineering and Management Kolkata
-- 🔭 Web Development and Blockchain
-- ⚡ Connect with me: <a target="_blank" href="mailto:harshpandey.tech@gmail.com"><strong>Email</strong></a> | <a target="_blank" href="https://linkedin.com/in/harsh3dev"><strong>LinkedIn</strong></a> | <a target="_blank" href="https://x.com/harsh3dev"><strong>X</strong></a>
+# Hi there!👋:
+<p> I'm Harsh, an undergraduate student from India 🇮🇳, passionately exploring the world of engineering and technology. As a passionate full-stack web developer, I'm on a goal to innovate solutions that captivate, inspire and leave a lasting impact on the life of the masses. </p>
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,nodejs,react,redux,tailwind,ts,vscode,c,cpp,figma,git,ps)](https://skillicons.dev)
+⚡ Connect with me: [Email](mailto:harshpandey.tech@gmail.com) | [LinkedIn](https://linkedin.com/in/harsh3dev) | [X](https://x.com/harsh3dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css,docker,cpp,git,vscode,figma)](https://skillicons.dev)
+
 
 # 📊 GitHub Stats:
 [![harsh3dev's GitHub | Stats](https://stats.quira.sh/harsh3dev/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=harsh3dev)
