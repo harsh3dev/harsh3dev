@@ -5,7 +5,7 @@
 ⚡ Connect with me: [Email](mailto:harshpandey.tech@gmail.com) | [LinkedIn](https://linkedin.com/in/harsh3dev) | [X](https://x.com/harsh3dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongo,express,postgres,prisma,html,css,docker,cpp,git,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongo,express,postgres,prisma,html,css,docker,aws,cpp,git,vscode,figma)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
