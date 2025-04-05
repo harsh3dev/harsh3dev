@@ -12,3 +12,7 @@
 [![harsh3dev's GitHub | Stats](https://stats.quira.sh/harsh3dev/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=harsh3dev)
 
 ![](https://komarev.com/ghpvc/?username=harsh3dev)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
