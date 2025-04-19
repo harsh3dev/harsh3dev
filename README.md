@@ -14,7 +14,7 @@
 ![](https://komarev.com/ghpvc/?username=harsh3dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,6 +66,6 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harsh3dev/harsh3dev/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2025 18:49:15 UTC
+ Last Updated on 19/04/2025 18:46:27 UTC
 <!--END_SECTION:waka-->
 
