@@ -20,8 +20,6 @@
 
 > 📦 53.7 kB Used in GitHub's Storage 
  > 
-> 🏆 747 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -66,6 +64,6 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harsh3dev/harsh3dev/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 18:46:27 UTC
+ Last Updated on 20/04/2025 18:49:07 UTC
 <!--END_SECTION:waka-->
 
