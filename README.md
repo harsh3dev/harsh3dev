@@ -14,9 +14,13 @@
 ![](https://komarev.com/ghpvc/?username=harsh3dev)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2015%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 53.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 770 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -24,6 +28,27 @@
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                299 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+🌆 Daytime                1657 commits        ██████████░░░░░░░░░░░░░░░   38.88 % 
+🌃 Evening                1502 commits        █████████░░░░░░░░░░░░░░░░   35.24 % 
+🌙 Night                  804 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   554 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Tuesday                  516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Wednesday                739 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Thursday                 314 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Friday                   472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Saturday                 778 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Sunday                   889 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+```
+
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -41,6 +66,6 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harsh3dev/harsh3dev/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 18:50:37 UTC
+ Last Updated on 03/05/2025 18:48:09 UTC
 <!--END_SECTION:waka-->
 
