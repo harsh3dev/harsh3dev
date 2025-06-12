@@ -14,11 +14,13 @@
 ![](https://komarev.com/ghpvc/?username=harsh3dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 97.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 971 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -64,6 +66,6 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harsh3dev/harsh3dev/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2025 18:55:22 UTC
+ Last Updated on 12/06/2025 18:54:59 UTC
 <!--END_SECTION:waka-->
 
