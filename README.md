@@ -14,7 +14,7 @@
 ![](https://komarev.com/ghpvc/?username=harsh3dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,6 +66,6 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harsh3dev/harsh3dev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2025 18:58:29 UTC
+ Last Updated on 16/08/2025 18:55:29 UTC
 <!--END_SECTION:waka-->
 
